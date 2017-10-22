@@ -52,6 +52,10 @@ In the `Makefile`, change the `DIST_NAME` so that running `make dist` builds a c
 Subscribe to the [Plugin API Updates Thread](https://github.com/VCVRack/Rack/issues/258) to receive notifications when the Rack API changes or a discussion about a change is being held.
 Finally, add your plugin to the [List of plugins](https://github.com/VCVRack/Rack/wiki/List-of-plugins) wiki page.
 
+## Debugging plugin
+
+See https://github.com/VCVRack/Rack/issues/172 for tips
+
 ## Contributing
 
 I welcome Issues and Pull Requests to this repository if you have suggestions for improvement.
